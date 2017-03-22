@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BDSENJU</Machine>
+    <WindowsUser>Manik Gupta</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54829001-3d23-409e-9db6-3a22e1c16130</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Manik Gupta</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>9CB5D265AAA531B0A5BA249AEC4F152FF7942CB75DAB8677FF1461B19F89CB08</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54829001-3d23-409e-9db6-3a22e1c16130_1.0.0.0_neutral__kacx69vcaejma</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54829001-3d23-409e-9db6-3a22e1c16130_kacx69vcaejma!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54829001-3d23-409e-9db6-3a22e1c16130</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Manik Gupta</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-22T07:34:48.158</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\Zalando.Windows.exe">
+      <PackagePath>Zalando.Windows.exe</PackagePath>
+      <Modified>2017-03-22T07:34:47.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:31:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\Zalando.Windows.xr.xml">
+      <PackagePath>Zalando.Windows.xr.xml</PackagePath>
+      <Modified>2017-03-22T07:34:47.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-22T07:34:47.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-22T07:34:47.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-22T07:34:47.594</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -99,8 +99,7 @@ namespace Zalando
                 {
                     try
                     {
-                        var token = resObj.JsonArray.GetObject("categories");
-                        this.Frame.Navigate(typeof(SearchResultsPage));
+                       
                     }
                     catch (Exception ex)
                     {

@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="f:\windowsapps\zalando\zalando\zalando.windowsphone\obj\debug\intermediatexaml\zalando.windowsphone.exe" HashGuid="85595418-d3a0-c9bf-5607-d2fc33c67e25" />
-    <ReferenceAssembly PathName="f:\windowsapps\zalando\packages\newtonsoft.json.10.0.1\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="6accc05e-97e4-c513-a642-58f8bfbe4e27" />
+    <ReferenceAssembly PathName="f:\windowsapps\zalandotask\packages\newtonsoft.json.10.0.1\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="6accc05e-97e4-c513-a642-58f8bfbe4e27" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

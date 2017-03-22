@@ -1,0 +1,1 @@
+F:\WindowsApps\ZalandoTask\Zalando\Zalando.Windows\Zalando.Windows.csproj;neutral

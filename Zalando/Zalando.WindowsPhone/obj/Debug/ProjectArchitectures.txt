@@ -1,1 +1,1 @@
-F:\WindowsApps\Zalando\Zalando\Zalando.WindowsPhone\Zalando.WindowsPhone.csproj;neutral
+F:\WindowsApps\ZalandoTask\Zalando\Zalando.WindowsPhone\Zalando.WindowsPhone.csproj;neutral
